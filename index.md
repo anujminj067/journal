@@ -1,20 +1,28 @@
-# Welcome to My Website
+---
+layout: home
+title: Home
+---
 
-Hello! 👋
+# 👋 Welcome!
 
-This is my website built with Markdown and GitHub Pages.
+Welcome to **my website**.
 
-## About
+I'm building this site with **Markdown + GitHub Pages**.
 
-I'm building this site step by step using Markdown.
+## 🚀 My Projects
 
-## What you'll find here
+Here you'll eventually find some of the things I've built.
 
-- About me
-- My projects
-- My notes
-- Contact information
+## 📚 My Notes
+
+I'll use this section to share things I'm learning.
+
+## 🌟 About Me
+
+A little information about me will go here.
 
 ---
 
-© 2026 My Website
+### Thanks for visiting!
+
+Come back soon for more updates. 🙂
