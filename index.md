@@ -9,9 +9,12 @@ Welcome to **my website**.
 
 I'm building this site with **Markdown + GitHub Pages**.
 
+
 ## 🚀 My Projects
 
 Here you'll eventually find some of the things I've built.
+
+[🚀 View My Projects](/journal/projects/)
 
 ## 📚 My Notes
 
